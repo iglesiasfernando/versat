@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VersatDesafio/obj
+/VersatDesafio/bin
+/VersatDesafio/VersatDesafio.Android/obj
+/VersatDesafio.Android/bin/Debug
+/VersatDesafio.Android/obj
+/.vs/*
